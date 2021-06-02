@@ -1,8 +1,9 @@
-#部活用のダイスボット
+# 部活用のダイスボット
 
 GlitchでDiscordBotを作るためのベースです。
 　
-実行サイト　https://glitch.com/edit/#!/tangible-materialistic-wire?path=server.js%3A1%3A0
+## 実行サイト　
+https://glitch.com/edit/#!/tangible-materialistic-wire?path=server.js%3A1%3A0
 
 
 ## 詳細
